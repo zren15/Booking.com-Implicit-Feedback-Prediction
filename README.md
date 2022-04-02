@@ -1,5 +1,7 @@
 ## Booking.com Implicit Feedback Prediction(Travel Destination Forecast)
 
+Find my [jupyter notebook](https://github.com/zren15/Booking.com-Implicit-Feedback-Prediction/blob/main/Code/art-of-coding-predictions.ipynb) here.
+
 ### About Implicit Feedback Prediction 
 Implicit feedback prediction is a technique for making inferences from user behavior (implicit ratings). For example, a user books a ticket on Booking.com, watches a movie on YouTube, or buys a product on Amazon. 
 
@@ -13,7 +15,7 @@ Booking.com currently focuses on **a multi-destinations trip planning problem**,
 By using an implicit feedback recommendation system on the Booking.com dataset, we can deduce user next in-trip destination preferences even without their explicit input, allowing for better personalized recommendations.
 
 ### Dataset 
-We used the [modified training data]() from [Kaggle.com](https://www.kaggle.com/datasets/teresasereno/booking-challenge-data) that contains 970K rows with four columns. We test data predicted implicit ratings for 381K user & city cases.
+We used the [modified training data](https://github.com/zren15/Booking.com-Implicit-Feedback-Prediction/tree/main/modified_data) from [Kaggle.com](https://www.kaggle.com/datasets/teresasereno/booking-challenge-data) that contains 970K rows with four columns. We test data predicted implicit ratings for 381K user & city cases.
 
 | Feature | DataType | Detail |
 |--------|--------|--------|
